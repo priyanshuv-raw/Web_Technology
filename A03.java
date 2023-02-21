@@ -1,4 +1,6 @@
-class table{
+// Finding the table of the number 10.
+
+class A03{
     public static void main (String args[]){
         int num = 10;
         System.out.println("The table of "+num+" is");
