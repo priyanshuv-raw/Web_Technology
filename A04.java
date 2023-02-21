@@ -1,6 +1,6 @@
-// in this program I am trying to enter the my name using argument input style.
+// Printing the First Name and Last Name using String Arguments.
 
-class name{
+class A04{
     public static void main(String args[])
     {
         String fname,lname;
