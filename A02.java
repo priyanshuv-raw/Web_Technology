@@ -1,6 +1,6 @@
-// In this program i am adding two integers taken by the user using argument input;
+// Doing the sum of two numbers using atring arguments.
 
-class sumarg{
+class A02{
     public static void main(String args[]){
         int x,y,z;
         x = Integer.parseInt(args[0]);
