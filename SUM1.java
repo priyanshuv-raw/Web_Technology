@@ -1,3 +1,5 @@
+// In this file we are trying to add all the numbers between 1 to 10;
+
 class SUM1{
     public static void main(String args[]){
         int sum = 0;
