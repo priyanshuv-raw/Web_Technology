@@ -1,4 +1,4 @@
-// Finding the sum using the child class and parent class
+// Finding the sum using the child class and parent class.
 
 import java.util.*;
 
