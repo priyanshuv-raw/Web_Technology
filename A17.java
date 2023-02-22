@@ -1,4 +1,4 @@
-// Read day number and pront the day name.
+// Read day number and print the day name.
 
 import java.util.*;
 class A17{
